@@ -1,0 +1,9 @@
+[submodule "rbg2cpp"]
+	path = rbg2cpp
+	url = https://github.com/uicus/rbg2cpp.git
+[submodule "rbggamemanager"]
+	path = rbggamemanager
+	url = https://github.com/shrumo/rbggamemanager.git
+[submodule "rbgPlayer"]
+	path = rbgPlayer
+	url = https://github.com/WoojtekP/rbgPlayer.git
